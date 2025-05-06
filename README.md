@@ -2,6 +2,8 @@
 
 A Streamlit application that allows users to upload an image and automatically remove its background using the [rembg](https://github.com/danielgatis/rembg) library.
 
+This is a Clone of tyler-simons [project](https://github.com/tyler-simons/BackgroundRemoval.git) with few updates and changes
+
 ## Features
 
 - Upload images (PNG, JPG, JPEG formats supported)
@@ -21,7 +23,7 @@ A Streamlit application that allows users to upload an image and automatically r
 
 1. Clone the repository
 ```bash
-git clone https://github.com/tyler-simons/BackgroundRemoval.git
+git clone https://github.com/praveenksekaran/ImageBackgroundRemoval.git
 cd BackgroundRemoval
 ```
 
